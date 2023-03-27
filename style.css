@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body{
+    background:rgb(185, 185, 185);
+    color:white;
+}
+.lists{
+    list-style:none;
+    text-align: left;
+
+}
+.brank{
+    color:rgb(128, 92, 92);
+}
+#app{
+    text-align:center;
+}
